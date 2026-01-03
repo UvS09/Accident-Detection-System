@@ -1,0 +1,16 @@
+{
+  "name": "Manager",
+  "phone": "9876543210",
+  "email": "swaraj.test@example.com",     // ← must be valid
+  "userId": "686d04b1416c86b2cd0da15c"
+}
+{
+  "location": "NH8 Toll Plaza",
+  "userId": "686d04b1416c86b2cd0da15c",
+  "name": "Swaraj",
+  "vehicle": "MH14-AB-1234",
+  "severity": "High",
+  "description": "Vehicle collided on NH8 near toll plaza.",
+  "latitude": "28.6139",
+  "longitude": "77.2090"
+}

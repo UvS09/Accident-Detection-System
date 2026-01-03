@@ -1,0 +1,24 @@
+name: ads_app
+description: "Automated Accident Detection & Emergency Response App"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.8.1 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.5
+  cupertino_icons: ^1.0.8
+  google_maps_flutter: ^2.6.0
+  geolocator: ^10.1.0
+  location: ^5.0.3
+  intl: ^0.18.1
+  shared_preferences: ^2.5.3
+
+flutter:
+  uses-material-design: true
+  # if you have map API key in assets, uncomment:
+  # assets:
+  #   - assets/
